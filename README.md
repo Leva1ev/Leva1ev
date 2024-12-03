@@ -1,5 +1,11 @@
 Someone who enjoys doing python
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leva1ev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Leva1ev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Leva1ev&theme=tokyonight&hide_border=true)
+**[![Visits Badge](https://badges.pufler.dev/visits/leva1ev/leva1ev)](https://github.com/leva1ev)**
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=leva1ev&theme=ambient_gradient" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leva1ev&layout=compact&langs_count=8&card_width=200&theme=ambient_gradient" />
+</a>
